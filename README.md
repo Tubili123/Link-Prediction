@@ -1,1 +1,1 @@
-"# Link-Prediction" 
+This is the recommendation system using [Complex Representation-based Link Prediction methd(CORLP)](https://www.researchgate.net/publication/273125189_A_link_prediction_approach_for_item_recommendation_with_complex_number) with MovieLens dataset.(ml-100k)
